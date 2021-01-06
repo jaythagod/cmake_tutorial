@@ -1,0 +1,2 @@
+/home/jtg/Desktop/cmake_tutorial/module6/build/CMakeFiles/rebuild_cache.dir
+/home/jtg/Desktop/cmake_tutorial/module6/build/CMakeFiles/edit_cache.dir

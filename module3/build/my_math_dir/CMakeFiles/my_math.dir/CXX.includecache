@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../my_math_dir/include/my_math/addition.h
+
+../my_math_dir/include/my_math/division.h
+
+/home/jtg/Desktop/cmake_tutorial/module3/my_math_dir/src/addition.cpp
+my_math/addition.h
+/home/jtg/Desktop/cmake_tutorial/module3/my_math_dir/src/my_math/addition.h
+
+/home/jtg/Desktop/cmake_tutorial/module3/my_math_dir/src/division.cpp
+my_math/division.h
+/home/jtg/Desktop/cmake_tutorial/module3/my_math_dir/src/my_math/division.h
+
