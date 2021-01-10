@@ -8,7 +8,7 @@ void activate(GtkApplication *app, gpointer user_data){
 
 }
 
-main(int argc, char **argv){
+int main(int argc, char **argv){
 
     GtkApplication *app;
     app = gtk_application_new(NULL, G_APPLICATION_FLAGS_NONE);
