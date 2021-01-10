@@ -398,4 +398,6 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding GTK3
+FIND_PACKAGE_MESSAGE_DETAILS_GTK3:INTERNAL=[/usr/lib/libgtk-3.so][/usr/lib/libgio-2.0.so][/usr/lib/libgobject-2.0.so][/usr/include/gtk-3.0][/usr/include/glib-2.0][/usr/lib/glib-2.0/include][/usr/include/pango-1.0][/usr/include/cairo][/usr/include/gdk-pixbuf-2.0][/usr/include/atk-1.0][v()]
 

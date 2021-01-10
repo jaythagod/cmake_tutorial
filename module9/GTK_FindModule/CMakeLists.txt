@@ -5,6 +5,10 @@ project(GTK_FindModule)
 list(APPEND CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake/modules)
 find_package(GTK3 REQUIRED)
 
+if(NOT GTK3_FOUND)
+    message(FATAL_ERROR "GTK3 not found")
+endif()
+
 
 add_executable(${PROJECT_NAME}_app main.cpp)
 
