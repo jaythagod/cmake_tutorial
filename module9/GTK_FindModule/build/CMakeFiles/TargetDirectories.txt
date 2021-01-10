@@ -1,0 +1,3 @@
+/home/jtg/Desktop/cmake_tutorial/module9/GTK_FindModule/build/CMakeFiles/edit_cache.dir
+/home/jtg/Desktop/cmake_tutorial/module9/GTK_FindModule/build/CMakeFiles/rebuild_cache.dir
+/home/jtg/Desktop/cmake_tutorial/module9/GTK_FindModule/build/CMakeFiles/GTK_FindModule_app.dir
